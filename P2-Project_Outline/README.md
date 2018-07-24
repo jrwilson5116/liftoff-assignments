@@ -17,6 +17,7 @@ Record holdings management tool that aids in storage, retrieval and destruction 
 1. CRUD through an ORM with 3 models
 2. User accounts
 3. Pagenation of db view
+4. Unit testing and integration testing 
 
 
 ### Technologies
