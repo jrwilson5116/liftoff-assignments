@@ -8,11 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* ![Welcome](https://github.com/LaunchCodeEducation/liftoff-assignments/tree/master/P3-Project_Planning/welcome.jpg)
+* ![Welcome](https://github.com/jrwilson5116/liftoff-assignments/blob/master/P3-Project_Planning/welcome.jpg)
 
-* ![Data Entry](https://github.com/LaunchCodeEducation/liftoff-assignments/tree/master/P3-Project_Planning/data-entry.jpg)
+* ![Data Entry](https://github.com/jrwilson5116/liftoff-assignments/blob/master/P3-Project_Planning/data-entry.jpg)
 
-* ![Search](https://github.com/LaunchCodeEducation/liftoff-assignments/tree/master/P3-Project_Planning/search.jpg)
+* ![Search](https://github.com/jrwilson5116/liftoff-assignments/blob/master/P3-Project_Planning/search.jpg)
 
 ### Project Tracker
 
