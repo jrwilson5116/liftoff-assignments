@@ -6,5 +6,5 @@
 ### [linkedIn](https://www.linkedin.com/in/joseph-wilson-46a31b15b)
 
 
-### [Resume](../Joseph Wilson Resume.pdf)
+### [Resume](../C1-Online_Profiles/Joseph Wilson Resume)
 
